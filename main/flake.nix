@@ -11,6 +11,7 @@
   inputs.src-matrix-main.ref   = "refs/heads/main";
   inputs.src-matrix-main.owner = "dylhack";
   inputs.src-matrix-main.repo  = "matrix-nim-sdk";
+  inputs.src-matrix-main.dir   = "";
   inputs.src-matrix-main.type  = "github";
   
   inputs."jsony".owner = "nim-nix-pkgs";
