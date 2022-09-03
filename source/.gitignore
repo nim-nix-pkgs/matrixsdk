@@ -1,0 +1,14 @@
+###Nim###
+nimcache/
+
+# ignore binaries
+*
+!/**/
+!*.*
+*.js
+
+###Project Specific###
+src/matrix.out
+src/matrix.js
+tests/config.ini
+tests/testclient
